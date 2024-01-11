@@ -20,7 +20,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - Remove Duplicates form sorted array
   - Moving Zeroes
 # Sliding Window
-  -Maximum sum of subarray with size k
+  - Maximum sum of subarray with size k
 # Kadane Algorithm
   - Maximum sum of contiguous subarray
   - Maximum product of contigious subarray
