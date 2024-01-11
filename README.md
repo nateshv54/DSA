@@ -26,9 +26,8 @@ This repository is used for implementing basic Data Structures and Algorithms in
   -Maximum product of contigious subarray
 
 ### 2D Arrays
-  -Matrix Problems
-    -Matrix Multiplication
-    -Matrix Addition
+  -Matrix Addition
+    -Matrix Multiplication 
     -Transpose of Matrix
     -Rotate Image
     -Set Matrix Zeroes
