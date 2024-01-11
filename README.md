@@ -20,15 +20,15 @@ This repository is used for implementing basic Data Structures and Algorithms in
     - Remove Duplicates form sorted array
     - Moving Zeroes
 #### Sliding Window
-    -Maximum sum of subarray with size k
+  -Maximum sum of subarray with size k
 #### Kadane Algorithm
-    -Maximum sum of contiguous subarray
-    -Maximum product of contigious subarray
+  -Maximum sum of contiguous subarray
+  -Maximum product of contigious subarray
 
-  ### 2D Arrays
+### 2D Arrays
+  -Matrix Problems
+    -Matrix Multiplication
     -Matrix Addition
-    -Matrix Multiplication 
     -Transpose of Matrix
     -Rotate Image
     -Set Matrix Zeroes
-    
