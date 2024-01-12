@@ -8,4 +8,5 @@ def reverse_2point(str2):
         end-=1
     return ''.join(str1)
 
+
 print("Reverse of string is",reverse_2point("DSAlgo"))
