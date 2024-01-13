@@ -16,6 +16,11 @@ This repository is used for implementing basic Data Structures and Algorithms in
 # Opposite Direction
   - Two Sum
   - Valid Palindrome II
+  - Triplet Sum
+  - Reverse Array
+  - Remove Element
+  - Container With Most water
+  - Trapping Rain Water
 # EquiDirectional
   - Remove Duplicates form sorted array
   - Moving Zeroes
