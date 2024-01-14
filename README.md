@@ -11,9 +11,9 @@ This repository is used for implementing basic Data Structures and Algorithms in
 - BubbleSort
 
 ## Arrays
-### One-dimensional Array
-#### Two-pointer technique
-# Opposite Direction
+## One-dimensional Array
+# Two-pointer technique
+### Opposite Direction
   - Two Sum
   - Valid Palindrome II
   - Triplet Sum
@@ -21,16 +21,16 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - Remove Element
   - Container With Most water
   - Trapping Rain Water
-# EquiDirectional
+### EquiDirectional
   - Remove Duplicates form sorted array
   - Moving Zeroes
-# Sliding Window
+### Sliding Window
   - Maximum sum of subarray with size k
 # Kadane Algorithm
   - Maximum sum of contiguous subarray
   - Maximum product of contigious subarray
 
-### 2D Arrays
+# 2D Arrays
   - Matrix Addition
   - Matrix Multiplication 
   - Transpose of Matrix
