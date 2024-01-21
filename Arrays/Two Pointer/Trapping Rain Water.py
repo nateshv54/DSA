@@ -19,17 +19,17 @@ def max_water(arr):
 
     while(start<=end):
         #check for min(left,right) for each element
+        r_max=max(r_max,arr[end])
+        l_max=max(l_max,arr[start])
+        
         if r_max<=l_max:
             result+=max(0,r_max-arr[end])
             #Update right max
-            r_max=max(r_max,arr[end])
 
             end-=1
         else:
             result+=max(0,l_max-arr[start])
             #update left_max
-            l_max=max(l_max,arr[start])
-
             start+=1
 
     return result
