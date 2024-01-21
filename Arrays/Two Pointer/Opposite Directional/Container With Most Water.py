@@ -17,3 +17,4 @@ b = [3, 1, 2, 4, 5]
 print(maxAreaContainer(a))
 print(maxAreaContainer(b))
 
+https://www.codingninjas.com/studio/problems/container-with-most-water_873860?leftPanelTabValue=PROBLEM&count=25&page=1&search=container%20with&sort_entity=order&sort_order=ASC&customSource=studio_nav
