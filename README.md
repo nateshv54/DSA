@@ -10,7 +10,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
 - InsertionSort
 - BubbleSort
 
-## [Arrays]{https://github.com/nateshv54/DSA/tree/main/Arrays}
+## [Arrays](https://github.com/nateshv54/DSA/tree/main/Arrays)
 ## One-dimensional Array
 # Two-pointer technique
 ### Opposite Direction
