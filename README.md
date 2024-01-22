@@ -15,7 +15,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
 ### [Two-pointer technique](https://github.com/nateshv54/DSA/tree/main/Arrays/Two%20Pointer)
 #### [Opposite Direction](https://github.com/nateshv54/DSA/tree/main/Arrays/Two%20Pointer/Opposite%20Directional)
   - [Two Sum](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/Opposite%20Directional/Two%20Sum.py)
-  - [Valid Palindrome II]
+  - [Valid Palindrome II](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Valid%20Palindrome%20II.py)
   - [Triplet Sum](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/Opposite%20Directional/Triplet%20Sum.py)
   - [Container With Most water](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/Opposite%20Directional/Container%20With%20Most%20Water.py)
   - [Trapping Rain Water](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/Trapping%20Rain%20Water.py)
