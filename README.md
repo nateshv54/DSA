@@ -23,7 +23,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
 #### [EquiDirectional](https://github.com/nateshv54/DSA/tree/main/Arrays/Two%20Pointer/EquiDirectional)
   - [Remove Duplicates form sorted array](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/EquiDirectional/Moving%20Zeroes.py)
   - [Moving Zeroes](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/EquiDirectional/Moving%20Zeroes.py)
-### [Sliding Window]
+### [Sliding Window]()
   - [Maximum sum of subarray with size k](https://github.com/nateshv54/DSA/blob/main/Arrays/Sliding%20Window/Max_sub_array_sum.py)
     
 ### [Kadane Algorithm](https://github.com/nateshv54/DSA/tree/main/Arrays/Kadane%20Algorithm)
