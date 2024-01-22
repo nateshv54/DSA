@@ -3,7 +3,7 @@ def maxAreaContainer(arr):
     area=0
     while(start<end):
         #Calculating max area
-        area=max(area,min(arr[start],arr[end])*(end-1))
+        area=max(area,min(arr[start],arr[end])*(end-start))
         if arr[start]<arr[end]:
             start+=1
         else:
