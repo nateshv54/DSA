@@ -21,7 +21,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - [Trapping Rain Water](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/Trapping%20Rain%20Water.py)
     
 #### [EquiDirectional](https://github.com/nateshv54/DSA/tree/main/Arrays/Two%20Pointer/EquiDirectional)
-  - [Remove Duplicates form sorted array](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/EquiDirectional/Moving%20Zeroes.py)
+  - [Remove Duplicates form sorted array](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/EquiDirectional/Remove%20Duplicates%20From%20Sorted%20Array.py)
   - [Moving Zeroes](https://github.com/nateshv54/DSA/blob/main/Arrays/Two%20Pointer/EquiDirectional/Moving%20Zeroes.py)
 ### [Sliding Window]()
   - [Maximum sum of subarray with size k](https://github.com/nateshv54/DSA/blob/main/Arrays/Sliding%20Window/Max_sub_array_sum.py)
