@@ -41,4 +41,6 @@ This repository is used for implementing basic Data Structures and Algorithms in
 # [Strings](https://github.com/nateshv54/DSA/tree/main/Strings)
 ### KMP Algorithm
   - [KMP pattern](https://github.com/nateshv54/DSA/blob/main/Strings/KMP%20algortihm/KMP%20pattern.py)
+### Basic String Problems Set1 
+  - [Valid Palindrome II](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Valid%20Palindrome%20II.py)
      
