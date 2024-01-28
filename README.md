@@ -29,6 +29,7 @@ This repository is used for implementing basic Data Structures and Algorithms in
 ### [Kadane Algorithm](https://github.com/nateshv54/DSA/tree/main/Arrays/Kadane%20Algorithm)
   - [Maximum sum of contiguous subarray](https://github.com/nateshv54/DSA/blob/main/Arrays/Kadane%20Algorithm/Maximum%20product%20of%20Contigious%20Subarray.py)
   - [Maximum product of contigious subarray](https://github.com/nateshv54/DSA/blob/main/Arrays/Kadane%20Algorithm/Maximum%20sum%20of%20Contigious%20Subarray.py)
+  - [Flip Bits](https://github.com/nateshv54/DSA/blob/main/Arrays/Kadane%20Algorithm/Flip%20Bits.py)
 
 ## [2D Arrays](https://github.com/nateshv54/DSA/tree/main/Arrays/2D%20arrays)
   - [Matrix Addition](https://github.com/nateshv54/DSA/blob/main/Arrays/2D%20arrays/Addition_Matrixes.py)
