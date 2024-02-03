@@ -24,20 +24,28 @@ from math import *
 def getLengthofLongestSubstring(s, k):
 
     # Write your code here.
-    i=0
-    j=0
-    max_value=0
-    while j<len(s):
-        length=len(set(s[i:j+1]))
-        if length<=k:
-            max_value=max(max_value,len(s[i:j+1]))
-            j+=1
-        else:
-            i+=1
-            j=i
-    return max_value
+    char_count = [0] * 128  
+    i, j = 0, 0  
+    distinct_count = 0  
+    max_value = 0  
 
-if __name__=="__main__":
-    S=input("Enter a String: ")
-    k=int(input("Enter Number of Distinct characters: "))
-    print(getLengthofLongestSubstring(S,k))
+    while j < len(s):  
+        if char_count[ord(s[j])] == 0:  
+            distinct_count += 1  
+        char_count[ord(s[j])] += 1  
+
+        while distinct_count > k:  # Inner loop to adjust the window size if the distinct character count exceeds k.
+            char_count[ord(s[i])] -= 1  # Decrement the count of the character at the start of the window.
+            if char_count[ord(s[i])] == 0:
+                distinct_count -= 1  # Decrement distinct_count if the count becomes zero.
+            i += 1  # Move the start pointer to the next character.
+
+        max_value = max(max_value, j - i + 1)  # Update max_value with the length of the current substring.
+        j += 1  # Move the end pointer to the next character.
+
+    return max_value  # Return the length of the longest substring with at most k distinct characters.
+
+if __name__ == "__main__":
+    S = input("Enter a String: ")
+    k = int(input("Enter Number of Distinct characters: "))
+    print(getLengthofLongestSubstring(S, k))
