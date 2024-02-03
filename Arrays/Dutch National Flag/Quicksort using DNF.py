@@ -6,9 +6,9 @@
 '''
 
 # Function to partition the array using Dutch National Flag algorithm
-def partition(arr, beg, last, start, mid):
-    pivot = arr[last]  # Choosing the pivot element as the last element
-    end = last
+def partition(arr, l, h, start, mid):
+    pivot = arr[h]  # Choosing the pivot element as the last element
+    end = h
     
     # Iterate while mid is not greater than end.
     while (mid[0] <= end):
@@ -25,26 +25,26 @@ def partition(arr, beg, last, start, mid):
             mid[0] = mid[0] + 1
 
 # Recursive function to perform quicksort using Dutch National Flag algorithm
-def quicksort(arr, beg, last):
+def quicksort(arr, l, h):
     # Base case when the size of the array is 1.
-    if beg >= last:
+    if l >= h:
         return
     
     # To handle the case when there are only 2 elements in the array.
-    if last == beg + 1:
-        if arr[beg] > arr[last]:
-            arr[beg], arr[last] = arr[last], arr[beg]
+    if h == l + 1:
+        if arr[l] > arr[h]:
+            arr[l], arr[h] = arr[h], arr[l]
             return
     
-    start = [beg]
-    mid = [beg]
+    start = [l]
+    mid = [l]
     
     # Function to partition the array.
-    partition(arr, beg, last, start, mid)
+    partition(arr, l, h, start, mid)
     
     # Recursively sort the left and the right partitions.
-    quicksort(arr, beg, start[0] - 1)
-    quicksort(arr, mid[0], last)
+    quicksort(arr, l, start[0] - 1)
+    quicksort(arr, mid[0], h)
 
 # Main function to sort the array using Dutch National Flag algorithm
 def quickSortUsingDutchNationalFlag(arr):
@@ -58,6 +58,11 @@ def quickSortUsingDutchNationalFlag(arr):
 if __name__ == "__main__":
     # Test Case
     arr = [4, 2, 1, 4, 2]
+    print("Original array:", arr)
+    result = quickSortUsingDutchNationalFlag(arr)
+    print("Sorted array:", result)
+
+    arr = [14, 8, 10, 7, 6]
     print("Original array:", arr)
     result = quickSortUsingDutchNationalFlag(arr)
     print("Sorted array:", result)
