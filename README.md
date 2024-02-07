@@ -46,6 +46,19 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - [KMP pattern](https://github.com/nateshv54/DSA/blob/main/Strings/KMP%20algortihm/KMP%20pattern.py)
 ### Basic String Problems Set1 
   - [Anagram](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Anagram.py)
-  - Longest substring 
+  - [Longest Palindrome substring](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Lonest%20Palindrome%20Substring.py)
+  - [Compressed String](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Compressed%20String.py)
+  -  [Edit Distance](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Edit%20Distance.py)
+  -  [Longest Common Prefix](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Longest%20Commong%20Prefix.py)
+  -  [Word Reversal](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Word%20Reversal.py)
   - [Valid PalindromeII](https://github.com/nateshv54/DSA/blob/main/Strings/Basic%20string%20problems/Valid%20Palindrome%20II.py)
-     
+
+### Basic String Problems Set2
+  - [Disticnt Characters](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/DistinctCharacters(Effiecient).py)
+  - [Encode Message](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/Encode_message1.py)
+  - [First Unique Character](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/FirstUniqueCharacter.py)
+  - [Longest Substring with K Distinct Character](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/Longest_substring_with_K_distinct%20characters.py)
+  - [Capitalize first letter in each word](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/TitleWordinString.py)
+  - [Rotational String](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/RotationalString.py)
+  - [Valid parenthesis](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/Validparenthesis.py)
+    
