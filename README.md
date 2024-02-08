@@ -33,6 +33,11 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - [Maximum subarray sum after k concatenations.py](https://github.com/nateshv54/DSA/blob/main/Arrays/Kadane%20Algorithm/Maximum%20subarray%20sum%20after%20k%20concatenations.py)
   - [Maximum Sum Rectangle](https://github.com/nateshv54/DSA/blob/main/Arrays/Kadane%20Algorithm/Maximum%20Sum%20Rectangle.py)
 
+### [Array Manipulations](https://github.com/nateshv54/DSA/tree/main/Arrays/Array%20Manipulations)
+  - [Longest Consecutive Sequence](https://github.com/nateshv54/DSA/blob/main/Arrays/Array%20Manipulations/Longest%20Consecutive%20Sequence.py)
+  - [Non Decreasing Array](https://github.com/nateshv54/DSA/blob/main/Arrays/Array%20Manipulations/Non%20Decresing%20Array.py)
+  - [Print the array after K operations](https://github.com/nateshv54/DSA/blob/main/Arrays/Array%20Manipulations/Print%20the%20array%20after%20K%20operations.py)
+  - [Second Largest Element in the array](https://github.com/nateshv54/DSA/blob/main/Arrays/Array%20Manipulations/Second%20largest%20element%20in%20the%20array.py)
 ## [2D Arrays](https://github.com/nateshv54/DSA/tree/main/Arrays/2D%20arrays)
   - [Matrix Addition](https://github.com/nateshv54/DSA/blob/main/Arrays/2D%20arrays/Addition_Matrixes.py)
   - [Matrix Multiplication](https://github.com/nateshv54/DSA/blob/main/Arrays/2D%20arrays/Multiplication_Matrix.py) 
