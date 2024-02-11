@@ -66,5 +66,8 @@ This repository is used for implementing basic Data Structures and Algorithms in
   - [Capitalize first letter in each word](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/TitleWordinString.py)
   - [Rotational String](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/RotationalString.py)
   - [Valid parenthesis](https://github.com/nateshv54/DSA/blob/main/Strings/String%20set2/Validparenthesis.py)
-### Basci String Problem Set3
+### [Basci String Problem Set3](https://github.com/nateshv54/DSA/tree/main/Strings/String%20Set%203)
+-  Anagram  Difference
+-   Compare Versions
+-   Validate Ip Address
 
