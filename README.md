@@ -1,6 +1,6 @@
 # DSA Repository
 
-This repository is used for implementing basic Data Structures and Algorithms in the Python programming language.
+This repository is for basic Data Structures and Algorithms in the Python programming language.
 
 # [Sorting](https://github.com/nateshv54/DSA/tree/main/Sorting)
 - [Quicksort](https://github.com/nateshv54/DSA/blob/main/Sorting/Quick%20sort.py)
