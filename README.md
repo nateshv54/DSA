@@ -70,4 +70,8 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 -  [Anagram  Difference](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Anagram%20Difference.py)
 -   [Compare Versions](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Compare%20Versions.py)
 -   [Validate Ip Address](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Compare%20Versions.py)
+-   [/Find Kth Character of Decrypted String](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Find%20Kth%20Character%20of%20Decrypted%20String.py)
+-   [Given a string, find the next smallest palindrome](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Given%20a%20string%2C%20find%20the%20next%20smallest%20palindrome.py)
+-   [Match Specific Pattern](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Match%20Specific%20Pattern.py)
+-   [Minimum operations to make strings equal](https://github.com/nateshv54/DSA/blob/main/Strings/String%20Set%203/Minimum%20operations%20to%20make%20strings%20equal.py)
 
