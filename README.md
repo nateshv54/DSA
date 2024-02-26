@@ -79,3 +79,4 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 ###  Recursion
 - Tower of Hanoi
 - Family Structure
+- Nth term of GP
