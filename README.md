@@ -79,5 +79,5 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 ###  [Recursion](https://github.com/nateshv54/DSA/tree/main/Recursion%26%20Bacltracking/Recursion)
 - [Tower of Hanoi](https://github.com/nateshv54/DSA/blob/main/Recursion%26%20Bacltracking/Recursion/Tower%20of%20Hanoi.py)
 - [Family Structure](https://github.com/nateshv54/DSA/blob/main/Recursion%26%20Bacltracking/Recursion/Family%20Structure.py)
-- Nth term of GP
+- [Nth term of GP](https://github.com/nateshv54/DSA/blob/main/Recursion%26%20Bacltracking/Recursion/N-th%20Term%20Of%20GP.py)
   
