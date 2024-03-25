@@ -81,3 +81,8 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 - [Family Structure](https://github.com/nateshv54/DSA/blob/main/Recursion%26%20Bacltracking/Recursion/Family%20Structure.py)
 - [Nth term of GP](https://github.com/nateshv54/DSA/blob/main/Recursion%26%20Bacltracking/Recursion/N-th%20Term%20Of%20GP.py)
   
+
+# [Linkedlist](https://github.com/nateshv54/DSA/tree/main/LinkedLists)
+  ### Insertion
+  - [Creation of LinkedList](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Linkedlist_creation.java)
+  - [Inserting Node at Desired Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Inserting_Node_Pos.java)
