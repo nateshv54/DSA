@@ -61,3 +61,10 @@ public class Linkedlist_creation {
 
 
 }
+
+/*
+
+Nodes of the linkedlist
+10=>11=>12
+
+*/
