@@ -83,6 +83,9 @@ This repository is for basic Data Structures and Algorithms in the Python progra
   
 
 # [Linkedlist](https://github.com/nateshv54/DSA/tree/main/LinkedLists)
+  ## Single Linked List
   ### Insertion
   - [Creation of LinkedList](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Linkedlist_creation.java)
   - [Inserting Node at Desired Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Inserting_Node_Pos.java)
+  ## Deletion
+  - [Deletion of LastNode](https://github.com/nateshv54/DSA/blob/main/LinkedLists/SLL_del_LastNode.java)
