@@ -122,3 +122,15 @@ public class SLL_del_LastNode {
 	}
 
 }
+
+/*
+Output:-
+
+Node of Linkedlist : 
+14 => 11
+Node of Linkedlist : 
+2 => 4 => 6 => 7 => 14 => 11
+Node of Linkedlist : 
+2 => 4 => 6 => 7 => 14
+
+*/
