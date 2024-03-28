@@ -89,3 +89,10 @@ This repository is for basic Data Structures and Algorithms in the Python progra
   - [Inserting Node at Desired Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Inserting_Node_Pos.java)
   ## Deletion
   - [Deletion of LastNode](https://github.com/nateshv54/DSA/blob/main/LinkedLists/SLL_del_LastNode.java)
+  - [Deletion of Specific Position](https://github.com/nateshv54/DSA/blob/main/LinkedLists/SLL_Del_Pos.java)
+
+## Doubly Linked List
+   ### Insertion
+   - [DLL Insetion at Specific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/DLL_Insertion.java)
+   - [DLL Deletion at Spcific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/DLL_DeletionPos.java)
+
