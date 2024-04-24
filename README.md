@@ -1,8 +1,9 @@
 # DSA Repository
 
 This repository is for basic Data Structures and Algorithms in the Python programming language.
+## [Basic Mathematical Related Problems](https://github.com/nateshv54/DSA/tree/main/BasicMath/Top50)
 
-# [Sorting](https://github.com/nateshv54/DSA/tree/main/Sorting)
+## [Sorting](https://github.com/nateshv54/DSA/tree/main/Sorting)
 - [Quicksort](https://github.com/nateshv54/DSA/blob/main/Sorting/Quick%20sort.py)
 - [RadixSort](https://github.com/nateshv54/DSA/blob/main/Sorting/Radix%20Sort.py)
 - [MergeSort](https://github.com/nateshv54/DSA/blob/main/Sorting/Merge%20Sort.py)
