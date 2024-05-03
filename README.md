@@ -86,14 +86,12 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 # [Linkedlist](https://github.com/nateshv54/DSA/tree/main/LinkedLists)
   ## Single Linked List
   ### Insertion
-  - [Creation of LinkedList](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Linkedlist_creation.java)
-  - [Inserting Node at Desired Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Inserting_Node_Pos.java)
+  - [SLL Insertion](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Singly%20Linked%20List/SLL_Insertion.py)
   ## Deletion
-  - [Deletion of LastNode](https://github.com/nateshv54/DSA/blob/main/LinkedLists/SLL_del_LastNode.java)
-  - [Deletion of Specific Position](https://github.com/nateshv54/DSA/blob/main/LinkedLists/SLL_Del_Pos.java)
+  - [SLL Deletion](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Singly%20Linked%20List/SLL_Deletion.py)
 
 ## Doubly Linked List
    ### Insertion
-   - [DLL Insetion at Specific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/DLL_Insertion.java)
-   - [DLL Deletion at Spcific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/DLL_DeletionPos.java)
+   - [DLL Insetion at Specific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Doubly%20Linked%20List/DLL_Insertion.py)
+   - [DLL Deletion at Spcific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Doubly%20Linked%20List/DLL_deletion.py)
 
