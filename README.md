@@ -93,5 +93,6 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 ## Doubly Linked List
    ### Insertion
    - [DLL Insetion at Specific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Doubly%20Linked%20List/DLL_Insertion.py)
+   ### Deletion
    - [DLL Deletion at Spcific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Doubly%20Linked%20List/DLL_deletion.py)
 
