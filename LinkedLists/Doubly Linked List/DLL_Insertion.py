@@ -1,71 +1,92 @@
 class Node:
-    def __init__(self, data):
-        self.data = data
-        self.prev = None
-        self.next = None
+    def __init__(self,data) -> None:
+        self.data=data
+        self.prev=None
+        self.next=None
 
-class DLL_Insertion:
-    def __init__(self):
-        self.head = None
-        self.tail = None
-
-    def __len__(self):
-        current = self.head
-        length = 0
-        while current is not None:
-            length += 1
-            current = current.next
-        return length
-
-    def insert_at_pos(self, data, pos):
-        new_node = Node(data)
-        if pos < 0 or pos > len(self):
-            print("Invalid position")
+class DoublyLinkedList:
+    def __init__(self) -> None:
+        self.head=None
+        self.tail=None
+        self.length=0
+    
+    def addnewnode(self,data,pos):
+        newnode=Node(data)
+        if pos<0 or pos>self.length:
+            print("Invalid Position")
             return
-        if pos == 0:
-            new_node.next = self.head
+        if pos==0:
             if self.head is not None:
-                self.head.prev = new_node
-            self.head = new_node
+                self.head.prev=newnode
+            self.head=newnode
             if self.tail is None:
-                self.tail = new_node
+                self.tail=newnode
         else:
-            current = self.head
-            for _ in range(pos - 1):
-                current = current.next
-            new_node.next = current.next
-            new_node.prev = current
+            current=self.head
+            for _ in range(pos-1):
+                current=current.next
+            newnode.prev=current
+            newnode.next=current.next
             if current.next is not None:
-                current.next.prev = new_node
+                current.next.prev=newnode
             else:
-                self.tail = new_node
-            current.next = new_node
-
-    def insert_at_end(self, data, length):
-        self.insert_at_pos(data, length)
+                self.tail=newnode
+            current.next=newnode
+        self.length+=1
+    
+    def node_beg(self,data):
+        newnode=Node(data)
+        if self.head is None:
+            self.head=newnode
+            self.tail=newnode
+        else:
+            newnode.next=self.head
+            self.head.prev=newnode
+            self.head=newnode
+        
+    def node_end(self,data):
+        newnode=Node(data)
+        if self.head is None:
+            self.tail=newnode
+            self.head=newnode
+        else:
+            self.tail.next=newnode
+            newnode.prev=self.tail
+            self.tail=newnode
 
     def display(self):
-        current = self.head
+        current=self.head
         if self.head is None:
-            print("List is empty")
+            print("LinkedList is empty: ")
             return
-        print("Nodes of doubly linked list:")
+        print("Nodes of Doubly Linkedlist are: ")
         while current is not None:
-            print(current.data, end="")
+            print(current.data,end=" ")
             if current.next is not None:
-                print(" => ", end="")
-            current = current.next
-        print()
+                print("<=>",end=" ")
+            current=current.next
+        print()     
 
-if __name__ == "__main__":
-    l = DLL_Insertion()
-    l.insert_at_pos(2, 0)
-    l.insert_at_pos(3, 1)
-    l.insert_at_pos(4, 2)
-    l.insert_at_pos(5, 3)
-    l.insert_at_end("M", len(l)//2)
+    def __len__(self):
+        return self.length
+        
+
+
+if __name__=="__main__":
+    l=DoublyLinkedList()
+    l.addnewnode(2,0)
+    l.addnewnode(3,1)
+    l.addnewnode(4,2)
     l.display()
+    l.addnewnode("M",len(l))
+    l.node_end("last")
+    l.node_beg(1)
+    l.display()
+                 
+
 '''
-Nodes of doubly linked list:
-2 => 3 => M => 4 => 5
+Nodes of Doubly Linkedlist are: 
+2 <=> 3 <=> 4
+Nodes of Doubly Linkedlist are:
+1 <=> 2 <=> 3 <=> 4 <=> M <=> last
 '''
