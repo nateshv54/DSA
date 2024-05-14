@@ -96,3 +96,9 @@ This repository is for basic Data Structures and Algorithms in the Python progra
    ### Deletion
    - [DLL Deletion at Spcific Location](https://github.com/nateshv54/DSA/blob/main/LinkedLists/Doubly%20Linked%20List/DLL_deletion.py)
 
+# Stack
+ #### [Noatations](https://github.com/nateshv54/DSA/tree/main/Stack%20%26%20Queues/Stacks/Notations)
+   - [Infix to Postfix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Infix_Postfix.py)
+  - [Infix to Prefix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Infix_Prefix.py)
+  - [Postfix to Infix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Postfix_infix.py)
+  - [Prefix to Infix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Prefix_infix.py)
