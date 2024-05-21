@@ -105,3 +105,6 @@ This repository is for basic Data Structures and Algorithms in the Python progra
   - [Infix to Prefix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Infix_Prefix.py)
   - [Postfix to Infix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Postfix_infix.py)
   - [Prefix to Infix Conversion](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Stacks/Notations/Prefix_infix.py)
+
+# [Queues](https://github.com/nateshv54/DSA/tree/main/Stack%20%26%20Queues/Queues)
+  - [Queue implementation using Linkedlist](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Queues/Linkedlist%20Queue.py)
