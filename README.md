@@ -108,3 +108,4 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 
 # [Queues](https://github.com/nateshv54/DSA/tree/main/Stack%20%26%20Queues/Queues)
   - [Queue implementation using Linkedlist](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Queues/Linkedlist%20Queue.py)
+  - [Queue implementation using Arrays](https://github.com/nateshv54/DSA/blob/main/Stack%20%26%20Queues/Queues/Queue%20implementation%20using%20Arrays.py)
