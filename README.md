@@ -11,6 +11,10 @@ This repository is for basic Data Structures and Algorithms in the Python progra
 - [InsertionSort](https://github.com/nateshv54/DSA/blob/main/Sorting/Insertion%20Sort.py)
 - [BubbleSort](https://github.com/nateshv54/DSA/blob/main/Sorting/Bubble%20Sort.py)
 
+##[Searching](https://github.com/nateshv54/DSA/tree/main/Searching)
+  - [Linear Search](https://github.com/nateshv54/DSA/blob/main/Searching/Linear%20Search.py)
+  - [Binary Search](https://github.com/nateshv54/DSA/blob/main/Searching/Binary%20Search.py)
+
 # [Arrays](https://github.com/nateshv54/DSA/tree/main/Arrays)
 ## One-dimensional Array
 ### [Two-pointer technique](https://github.com/nateshv54/DSA/tree/main/Arrays/Two%20Pointer)
